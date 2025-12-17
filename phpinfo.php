@@ -1,4 +1,5 @@
 <?php
-phpinfo(vvvvvvvvv);
+phpinfo(ก);
 
 ?>
+
